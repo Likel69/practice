@@ -1,0 +1,21 @@
+
+#include <stdio.h>
+#include <stdlib.h>
+
+
+
+:wq
+
+A
+A
+A
+Aa
+A
+A
+int main()
+{
+    /* code */
+    printf("Hello, World! \n");
+    return EXIT_SUCCESS;
+}
+
